@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines":{"node": "12.22.12"},
   "author": "predo",
   "license": "ISC",
   "dependencies": {
